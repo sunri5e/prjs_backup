@@ -1,0 +1,826 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"gall",
+				"gallery_ids"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"else",
+				"elseif\telseif …"
+			],
+			[
+				"_",
+				"_blank"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"colo",
+				"color-main"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"lisy",
+				"list-style-type"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"color-",
+				"color-main"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/page-gallery.php",
+			"settings":
+			{
+				"buffer_size": 872,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/js/scripts.js",
+			"settings":
+			{
+				"buffer_size": 5204,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/header.php",
+			"settings":
+			{
+				"buffer_size": 4547,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/index.php",
+			"settings":
+			{
+				"buffer_size": 34016,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/MAC OS /projects/z4-gfx/zhyva/sass/includes/_gallery.sass",
+			"settings":
+			{
+				"buffer_size": 294,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": ".gallery-item"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 90.0,
+		"last_filter": "php",
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ham",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/sass",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/sass/includes",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/css",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/js"
+	],
+	"file_history":
+	[
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/footer.php",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/sass/main.scss",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/js/lib/magnific-popup.js",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-includes/theme-compat/footer.php",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/functions.php",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/index.php",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/header.php",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/sass/includes/_navigation.sass",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/page-press.php",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/sass/includes/_post.sass",
+		"/Users/sashahladyschuk/Library/Caches/Cleanup At Startup/Transmit/3A35EF1D-CA81-4A3F-8594-0E6A86950C24/index.html",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-config.php",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/index.html",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/css/main.css",
+		"/Users/sashahladyschuk/Library/Caches/Cleanup At Startup/Transmit/ADF56DE2-CC9A-456D-BA56-31D553311890/wp-config.php",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/sass/includes/_general.sass",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/sass/includes/_mixins.sass",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/sass/includes/_buttons.sass",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/gulpfile.js",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/js/player.js",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/creds.txt",
+		"/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/style.css",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/user_mailer/new_comment_alert.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/user_mailer.css",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/user_mailer/word_deleted.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/layouts/user_mailer.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/user_mailer/new_translation_alert.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/user_mailer/last_alerts.haml",
+		"/Users/sashahladyschuk/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/variables.scss",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/press_kit.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/file.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/flexboxgrid.scss",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/config/database.yml",
+		"/Users/sashahladyschuk/.ssh/id_rsa.pub",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/layout.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/general.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/typography.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/buttons.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design.scss",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/release_notes.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/config/routes.rb",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/post.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/responsive-utilites.scss",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/error_02.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/error_03.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/error_01.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/about.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/team.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/privacy.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/regulations.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/pager.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/weekly.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/footer.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/word.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/forms.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/support_status.haml",
+		"/Volumes/MAC OS /perfetial/mc2-portal/README.md",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/home.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/support.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/layouts/design.html.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/settings.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/apidocjs_template/main.js",
+		"/Volumes/MAC OS /Downloads/PreSonus Studio One 3.3.1/Keygen/Установка.txt",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/profile.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/user.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/word-table.sass",
+		"/Volumes/MAC OS /projects/vertalab/viche/design/fonts/MyFontsWebfontsKit.css",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/add_word.haml",
+		"/Users/s.hladyshchuk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/last_events.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/models/word.rb",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/home/index.html.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/config/secrets.example.yml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/events.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/comments.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/last_comments.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/tabs.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/popular_words.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/last_words.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/attention.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/alphabet.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/catalog.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/last_translate.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/widget.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/sidebar.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/press.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/navigation.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/include-media.scss",
+		"/Volumes/MAC OS /company day tracklist.txt",
+		"/Volumes/MAC OS /Downloads/Atomix VirtualDJ Pro Infinity v8.0.2177 MacOSX/union.nfo",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/word.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/words/show.html.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/javascripts/design.js",
+		"/Users/s.hladyschuk/.bashrc",
+		"/Users/s.hladyschuk/Downloads/bash_profile",
+		"/Users/s.hladyschuk/.bash_profile",
+		"/Users/s.hladyschuk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/header.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/proxima-nova-font.scss",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/reset.scss",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/index.php",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/footer.php",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/css/style.css",
+		"/Users/s.hladyschuk/Desktop/Landing-page.css",
+		"/Users/s.hladyschuk/Library/Caches/Cleanup At Startup/Transmit/723B4E32-294E-4150-96D0-0607FC28A843/index.php",
+		"/Users/s.hladyschuk/Library/Caches/Cleanup At Startup/Transmit/7B2AF357-3CA4-4FA1-B974-2C54305094AC/style.css",
+		"/Users/s.hladyschuk/Library/Caches/Cleanup At Startup/Transmit/FC0C2ACF-3361-4BAF-93D8-AAAA32069703/index.html",
+		"/Users/s.hladyschuk/Library/Caches/Cleanup At Startup/Transmit/6E759C44-0DCD-48EA-87DC-956003059B72/style.css",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/style.css",
+		"/Users/s.hladyschuk/Library/Caches/Cleanup At Startup/Transmit/411C9CD7-F84E-4BCD-87D5-F049990C698A/index.html",
+		"/Users/s.hladyschuk/Downloads/InvertPicturesWebsite/index.html",
+		"/Volumes/io-als917/io.nfo",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/js/scripts.js",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/header.php",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/functions.php",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/our-works/single.html",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/news.html",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-config-local.php",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/.gitignore",
+		"/Volumes/MAC OS /projects/freelance/invertpictures.com/wp-config-local.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/MAC OS /projects/z4-gfx/zhyva/sass/includes",
+			"/Volumes/MAC OS /projects/z4-gfx/zhyva/sass",
+			"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design",
+			"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design",
+			"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design",
+			"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design",
+			"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design",
+			"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design",
+			"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design",
+			"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"press",
+			"gall",
+			"read",
+			"#page=",
+			"$page",
+			"page",
+			"query_posts",
+			"video",
+			"deb",
+			"<<<",
+			"deb",
+			"image",
+			"img",
+			"the_post_thumbnail_url",
+			"twitter:title",
+			";",
+			"<a href=\"#\"",
+			"container",
+			"media",
+			"15px",
+			"15",
+			"<div href=\"#\" class=\"link-post--link\"",
+			"<a class=\"link",
+			"<a class=\"link-post ",
+			"<article class=\"link-post",
+			"<article class=\"link-post mod-vertical\">",
+			"<a href=\"#\" class=\"link-post--",
+			"<a href=\"#\" class=\"lin",
+			"<a href=\"#\" class=\"link-po",
+			"aa",
+			"<p class=\"link-post--desc",
+			"<div class=\"link-post--picture\"",
+			"black",
+			"col",
+			"synopsis",
+			"Synopsis",
+			"synopsis",
+			"#page=synopsis",
+			"src=\"au",
+			"<script src=\"<?php echo get_template_directory_uri(); ?>js",
+			"src=\"img/",
+			"src=\"",
+			"href=\"im",
+			"href=\"css",
+			"src=\"js/",
+			"buttons",
+			"%p.text-left",
+			".fb",
+			"size: '40x40')",
+			"text-r",
+			"text-",
+			"text-left",
+			"18px",
+			"p-text",
+			"32x32",
+			"Перекладаємо слово",
+			"middle-lg",
+			".col-xs-12.col-sm-5",
+			".col-xs-6.col-sm-5",
+			"45.833%",
+			"5_5 {\n    -webkit-flex-basis: 41.667%;\n    -ms-flex-preferred-size: 41.667%;\n    flex-basis: 41.667%;\n    max-width: 41.667%;\n  }",
+			"41.667",
+			"5_5 {\n  -webkit-flex-basis: 41.667%;\n  -ms-flex-preferred-size: 41.667%;\n  flex-basis: 41.667%;\n  max-width: 41.667%;\n}",
+			"md-6",
+			".col-xs-12",
+			"app-file--preview",
+			".col-xs-6",
+			"page-subsection",
+			"sep",
+			"divi",
+			".is-color-semi-main",
+			"%img.app-img-responsive",
+			"center-bl",
+			"press-logo-inet-exemple.png",
+			".col-xs-12",
+			"%figure\n                %img",
+			"%img",
+			"p ",
+			"p",
+			"color: $color-semi-main",
+			".col-xs-12.is-text-center",
+			"%img(src",
+			"%img(src=\"#{image_path('design/press-logo.png')}\" alt=\"\")/",
+			"tag",
+			"%a.app-btn.is-tag",
+			"{:href => \"\"}",
+			"is-tag",
+			"text-center",
+			"press-1280.jpg",
+			".col-xs-12",
+			"margin-right: -20px;",
+			"20px",
+			".app-post--data",
+			".app-press",
+			".app-post--data",
+			".col-xs-12",
+			"sm",
+			"img/logo-pic",
+			"logo.png",
+			"@include media(\">phone\")",
+			"app-status-section",
+			"center-",
+			".col-xs-12.col-sm-6",
+			".col-sm-6",
+			"%h5",
+			"section",
+			"right",
+			":not(br)",
+			"%br.app-visible-md.app-visible-lg/",
+			".is-primari",
+			"%span.app-word--representation-addon",
+			".col-md-12",
+			"дод",
+			"h5",
+			"wekly",
+			"font-size: 72px",
+			"font-size: 36px",
+			"font-size: 22px",
+			"$color-danger",
+			"font-weight: 700\n      font-size: 30px",
+			"font-size: 36px",
+			"color: $color-semi-main",
+			"$color-semi-main",
+			"inp",
+			"prime",
+			"huge",
+			"app-page--title",
+			"3s"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@include media(\"<=phone\")",
+			"@include media(\">phone\")",
+			"@include media(\">tablet\")"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/page-gallery.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								119
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/js/scripts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3438,
+								3438
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1780.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2510,
+								2510
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 351.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Volumes/MAC OS /projects/z4-gfx/zhyva/wp/wp-content/themes/zhyva/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14856,
+								14868
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 767.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Volumes/MAC OS /projects/z4-gfx/zhyva/sass/includes/_gallery.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".gallery-item",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "z4gfx - zhyva.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"foot",
+				"wp/wp-includes/theme-compat/footer.php"
+			],
+			[
+				"fun",
+				"wp/wp-content/themes/zhyva/functions.php"
+			],
+			[
+				"var",
+				"code/app/assets/stylesheets/design/variables.scss"
+			],
+			[
+				"rou",
+				"code/config/routes.rb"
+			],
+			[
+				"ro",
+				"code/config/routes.rb"
+			],
+			[
+				"hom",
+				"code/app/views/design/home.haml"
+			],
+			[
+				"desi",
+				"code/app/assets/stylesheets/design.scss"
+			],
+			[
+				"mai",
+				"code/apidocjs_template/main.js"
+			],
+			[
+				"vari",
+				"code/app/assets/stylesheets/design/variables.scss"
+			],
+			[
+				"but",
+				"code/app/assets/stylesheets/design/buttons.sass"
+			],
+			[
+				"dat",
+				"code/config/database.yml"
+			],
+			[
+				"gener",
+				"code/app/assets/stylesheets/design/general.sass"
+			],
+			[
+				"rout",
+				"code/config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/MAC OS /projects/subl.workflows/fl - slovotvir.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

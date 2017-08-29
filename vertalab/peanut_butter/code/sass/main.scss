@@ -1,0 +1,17 @@
+@font-face {
+  font-family: AvenirLTStd;
+  src: url('../fonts/Avenir-Book.eot');
+  src: url('../fonts/Avenir-Book.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Avenir-Book.woff') format('woff'),
+       url('../fonts/Avenir-Book.ttf') format('truetype');
+  font-weight: 400;
+}
+@font-face {
+  font-family: AvenirLTStd;
+  src: url('../fonts/AvenirLTStd-Light.eot');
+  src: url('../fonts/AvenirLTStd-Light.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/AvenirLTStd-Light.woff') format('woff'),
+       url('../fonts/AvenirLTStd-Light.ttf') format('truetype');
+  font-weight: 300;
+}
+@import "includes/_style";

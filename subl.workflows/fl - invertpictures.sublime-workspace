@@ -1,0 +1,442 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"in",
+				"inline"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/css/style.css",
+			"settings":
+			{
+				"buffer_size": 23720,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/footer.php",
+			"settings":
+			{
+				"buffer_size": 2412,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/index.php",
+			"settings":
+			{
+				"buffer_size": 11546,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Development:\n- WordPress development;\n- Front-end (HTML5, CSS3, JS, AngularJS, EmberJS);\n- animation development (Canvas, SVG, CSS animation, TreeJS, GreenSock);\nUX design:\n- Strategy, a process of shaping the goals for the project, both customer and business;\n- Research, the key to creating an informed user experience;\n- Analysis, which is about drawing insights from data collected during the Research phase;\n- Design, a process of visualising the results of previously covered phases for the customers to actually see / hear / feel;\n- Production, where the high-fidelity design is fleshed out, content and digital assets are created, reworked;\nVisual design:\n- UI design;\n- micro interaction design;\n- motion design;\n- illustration;\n- 3D graphics, 3D motion (for web, video);\n\n\n",
+			"settings":
+			{
+				"buffer_size": 783,
+				"line_ending": "Unix",
+				"name": "Development:"
+			}
+		},
+		{
+			"file": "/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/js/home-parallax.js",
+			"settings":
+			{
+				"buffer_size": 559,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/css",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/js"
+	],
+	"file_history":
+	[
+		"/Users/s.hladyschuk/Desktop/Landing-page.css",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/index.php",
+		"/Users/s.hladyschuk/Library/Caches/Cleanup At Startup/Transmit/723B4E32-294E-4150-96D0-0607FC28A843/index.php",
+		"/Users/s.hladyschuk/Library/Caches/Cleanup At Startup/Transmit/7B2AF357-3CA4-4FA1-B974-2C54305094AC/style.css",
+		"/Users/s.hladyschuk/Library/Caches/Cleanup At Startup/Transmit/FC0C2ACF-3361-4BAF-93D8-AAAA32069703/index.html",
+		"/Users/s.hladyschuk/Library/Caches/Cleanup At Startup/Transmit/6E759C44-0DCD-48EA-87DC-956003059B72/style.css",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/style.css",
+		"/Users/s.hladyschuk/Library/Caches/Cleanup At Startup/Transmit/411C9CD7-F84E-4BCD-87D5-F049990C698A/index.html",
+		"/Users/s.hladyschuk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/s.hladyschuk/Downloads/InvertPicturesWebsite/index.html",
+		"/Volumes/io-als917/io.nfo",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/js/scripts.js",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/header.php",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/css/style.css",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/footer.php",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/functions.php",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/our-works/single.html",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/news.html",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-config-local.php",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/.gitignore",
+		"/Volumes/MAC OS /projects/freelance/invertpictures.com/wp-config-local.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			": 0%",
+			"background-position",
+			"+ ",
+			"parallax-layer + ",
+			"parallax-la",
+			"paralax-la",
+			"\"img/",
+			"img/",
+			"loop",
+			"scrol",
+			"img",
+			"modal-open",
+			"\"",
+			"col",
+			"video/",
+			"img/",
+			"../",
+			"js/",
+			"inde",
+			"http://newsite.ru",
+			"http://wp.ru"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20577,
+								20577
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 17438.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2384,
+								2384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 783,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								721,
+								721
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Development:",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/js/home-parallax.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fl - invertpictures.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/MAC OS /projects/subl.workflows/fl - slovotvir.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

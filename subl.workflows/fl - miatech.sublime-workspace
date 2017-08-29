@@ -1,0 +1,856 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"if",
+				"ifelse\tif … else …"
+			],
+			[
+				"te",
+				"text-right"
+			],
+			[
+				"img",
+				"img_position"
+			],
+			[
+				"else",
+				"elseif\telseif …"
+			],
+			[
+				"col",
+				"columns_class"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"the_",
+				"the_sub_field"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"l",
+				"langs"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"get_",
+				"get_class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "-= Improvements =-\n-= DONE =- 1. slider white controls\n-= DONE =- 2. Full screen section list of features\n3. \n4. Tiles image overlay\n5. Text section buttons\n6. Video image overlay\n7. push conditions into functions\n\n\n\n\n\nLorem ipsum dolore sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+			"settings":
+			{
+				"buffer_size": 666,
+				"line_ending": "Unix",
+				"name": "-= Improvements =-"
+			}
+		},
+		{
+			"contents": "пост новин на фб\n\nменю:\n- програми\n- ведучі\n- онлайн трансляції\n- акції\n- галерея\n- про нас\n\n2 банера та брендування\n\n-= Програми =-\nпрограми по днях зі списком ведучих кожної. та архівом програм.\n\n-= Ведучі =-\nсписок ведучих з фото, короткою історією, лінсками на соц мережі та на галерею кожного з них\n\n-= онлайн трансляції =-\nFacebook broadcast + архів трансляцій\n\n-= Акції =-\n\n-= Про нас =-\nslideshare + контакти\n\n-= аплікації =-\nплей, стоп і назва пісні\n\n\n28.1424094708\n\n6.32+0.74+1.58 - інтерєр\n29.46+1.04 - одяг\n18.3 - подарунки",
+			"settings":
+			{
+				"buffer_size": 535,
+				"line_ending": "Unix",
+				"name": "пост новин на фб"
+			}
+		},
+		{
+			"file": "/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/header.php",
+			"settings":
+			{
+				"buffer_size": 6207,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/footer.php",
+			"settings":
+			{
+				"buffer_size": 3509,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_navigation.sass",
+			"settings":
+			{
+				"buffer_size": 3719,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_grid.sass",
+			"settings":
+			{
+				"buffer_size": 8587,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 16 files for \"mod-usa\"\n\n0 matches\n\nSearching 16 files for \"hidden\"\n\n/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_fullscreen-blocks.sass:\n    1  // Full layout - 3 in design\n    2  .mt-fullscreen\n    3:   overflow: hidden\n    4    position: relative\n    5    min-height: 100vh\n    .\n   64  .mt-split\n   65    @include clearfix()\n   66:   overflow: hidden\n   67    @media (min-width: 768px)\n   68:     overflow: hidden\n   69      max-height: 750px\n   70      &.mod-small\n   ..\n   73        max-height: 480px\n   74  .mt-split--image\n   75:   overflow: hidden\n   76    position: relative\n   77    max-height: 50vh\n\n/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_general.sass:\n    4    font-family: $font-regular\n    5    line-height: 1.55\n    6:   overflow-x: hidden\n    7    &.mod-no-scroll\n    8:     overflow: hidden\n    9      padding-right: 17px\n   10  a, label\n   ..\n   30  \n   31  .mt-image--play--wrapper\n   32:   overflow: hidden\n   33    position: relative\n   34    img\n   ..\n   91  \n   92  \n   93: .hidden-xs\n   94    display: none !important\n   95    @media (min-width: 768px)\n   96      display: block !important\n   97  \n   98: .hidden-sm\n   99    display: none !important\n  100    @media (min-width: 769px)\n  101      display: block !important\n  102  \n  103: .hidden-xs--ib\n  104    display: none !important\n  105    @media (min-width: 769px)\n  ...\n  107  \n  108  @media (min-width: 769px)\n  109:   .hidden-md\n  110      display: none !important\n  111  \n\n/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_thumbnails.sass:\n   26    background-repeat: no-repeat\n   27    position: relative\n   28:   overflow: hidden\n   29    .col-md-6 &\n   30      height: 300px\n   ..\n   62    white-space: nowrap\n   63    text-overflow: ellipsis\n   64:   overflow: hidden\n   65    .mt-thumbnail:hover &\n   66      white-space: normal\n\n13 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 1937,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_general.sass",
+			"settings":
+			{
+				"buffer_size": 2042,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 90.0,
+		"last_filter": "php",
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/MAC OS /projects/my-orders/miatech/code",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech"
+	],
+	"file_history":
+	[
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/5-6.html",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/page-contacts.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/index.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/contact.html",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_thumbnails.sass",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_navigation.sass",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/section-split.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_fullscreen-blocks.sass",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/4.html",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/section-fullscreen.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/section-slider.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/1-2.html",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_text-columns.sass",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/section-columns.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/twentyfifteen/author-bio.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/functions.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_grid.sass",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/footer.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/js/scripts.js",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/header.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-includes/functions.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/creds.txt",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/11.html",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/section-video.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/page.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_general.sass",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/section-video.html",
+		"/Users/sashahladyschuk/Library/Caches/Cleanup At Startup/Transmit/63A95C1B-C48D-4C6A-9581-3C71FDE0D920/index.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/section-text.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/section-tiles.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-config.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/3.html",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/10.html",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_typography.sass",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/.gitignore",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_buttons.sass",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/css/main.css",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/style.css",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_charts.sass",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/gulpfile.js",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/styles.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/9.html",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/8.html",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/wp/index.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/wp/wp-activate.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/wp/wp-blog-header.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/wp/wp-comments-post.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/wp/wp-config-sample.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/wp/wp-cron.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/wp/wp-links-opml.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/wp/wp-load.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/wp/wp-login.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/wp/wp-mail.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/wp/wp-settings.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/wp/wp-signup.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/wp/wp-trackback.php",
+		"/Volumes/MAC OS /projects/my-orders/miatech/code/wp/xmlrpc.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes",
+			"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech",
+			"/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hidden",
+			"hidd",
+			"mod-usa",
+			"langs",
+			"til_overlay_color",
+			"mod-image-bg",
+			"hov",
+			"acti",
+			"mod-min",
+			"mod-sm",
+			"mt-split",
+			"mod-image-right",
+			".mt-split--content",
+			"split_section_size",
+			"video_src",
+			"media_type",
+			"img_position",
+			"split_image_position",
+			"split_features_list_items",
+			"feature_item_text",
+			"fullscreen_features_list_items",
+			"split_",
+			"split_features_list_type",
+			"feat",
+			"split_features_list_items",
+			"split_feature_layout_class",
+			"under",
+			"copy_wrapper_class",
+			"--text",
+			"fea",
+			"section--row",
+			"section-row",
+			"row_class",
+			"div_title_color",
+			"div_title_size",
+			"div_title_weight",
+			":not(.mod-full-",
+			"mod-big",
+			"video_sec_title_weight",
+			"video_section_title_weight",
+			"data-w",
+			"mod-white-controls",
+			"<ul class=\"mt-footer-nav\">",
+			"col-sm-1-5th",
+			"3_in_row_video_cover",
+			"3_video_in_row",
+			"video_half_video_cover",
+			"<div class=\"col-md-4\">\n                  <div class=\"mt-column\">\n                    <div class=\"mt-image--play--wrapper\">\n                      <img src=\"img/other/iStock_000020064374Medium.jpg\" alt=\"Miatech image\">\n                      <a class=\"mt-image--play mod-overlay\" href=\"#\" data-modal-open-iframe=\"https://www.youtube.com/embed/ChZ-_jG-O7w\"></a>\n                    </div>\n                    <div class=\"mt-column-text\">\n                      <div class=\"mt-column-text--title mod-small text-main font-bold\">Extends storage life</div>\n                      <p class=\"text-grey\">Significantly improves the lifespan and the quality of stored produce by cleaning  storage atmosphere of pathogens.</p>\n                    </div>\n                  </div>\n                </div>",
+			"til_columns",
+			"row",
+			"video_23video_cover",
+			"')\"",
+			"video_single_video_cover",
+			"mt-iframe-cover",
+			"video_section_subtitle",
+			"mt-iframe-cover",
+			"video_src",
+			"vide",
+			"video_sec_title_weight",
+			"video_sec_subtitle_color",
+			"til",
+			"video_section_title_color",
+			"video_section_title_weight",
+			"til_section_subtitle_color",
+			"til_section_title_weight",
+			"condition",
+			"<?php",
+			"<?php if (",
+			"condition",
+			"link-post",
+			"pres",
+			"php",
+			"text_color",
+			"til_columns",
+			"text_columns_count",
+			"text_size",
+			"text_columns_class",
+			"text_columns_count",
+			".mt-text-section--title",
+			"til",
+			"text_background_image",
+			"text_background_type",
+			"til",
+			"text-grey",
+			"mt-column--paragraph",
+			"tiles",
+			"col_section_bg",
+			"mt-thumbnail-wrapper",
+			"mt-text-section",
+			"background_type",
+			"image_overlay",
+			"til_div_title_color",
+			"til_division_title_color",
+			"til_subtitle_weight",
+			"til_section_subtitle_weight",
+			"til_title_color",
+			"til_section_title_color",
+			"til_title_weight",
+			"til_section_title_weight",
+			"til_section_title",
+			"columns_class",
+			"columns_count",
+			"-4",
+			"4",
+			"til_title_color",
+			"til_section_title_color",
+			"til_title_weight",
+			"til_section_title_weight",
+			"til_section_title",
+			"split_title_color",
+			"section_title_color",
+			"split_title_weight",
+			"section_title_weight",
+			"rows",
+			"split_feature_copy_color",
+			"row",
+			"feature_copy_color",
+			"additional",
+			"split_section_textual_buttons",
+			"additional_copy_color",
+			"split_additional_copy_color",
+			"additional_copy_color",
+			"section_common_buttons",
+			"section_textual_buttons",
+			"$additional_copy_color",
+			"additional_copy_color",
+			"additional_copy",
+			"big"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"auto_name": "-= Improvements =-",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								490,
+								490
+							]
+						],
+						"settings":
+						{
+							"auto_name": "пост новин на фб",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								398,
+								344
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 190.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/wp/wp-content/themes/miatech/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2596,
+								2596
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 524.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_navigation.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								873,
+								873
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 404.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_grid.sass",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 8587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1937,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										251,
+										257
+									],
+									[
+										384,
+										390
+									],
+									[
+										447,
+										453
+									],
+									[
+										586,
+										592
+									],
+									[
+										818,
+										824
+									],
+									[
+										871,
+										877
+									],
+									[
+										990,
+										996
+									],
+									[
+										1068,
+										1074
+									],
+									[
+										1200,
+										1206
+									],
+									[
+										1332,
+										1338
+									],
+									[
+										1472,
+										1478
+									],
+									[
+										1701,
+										1707
+									],
+									[
+										1841,
+										1847
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								1072,
+								1072
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 439.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Volumes/MAC OS /projects/my-orders/miatech/code/miatech/sass/includes/_general.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1779,
+								1770
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1443.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fl - miatech.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"5.",
+				"miatech/5-6.html"
+			],
+			[
+				"4.",
+				"miatech/4.html"
+			],
+			[
+				"1-",
+				"miatech/1-2.html"
+			],
+			[
+				"fun",
+				"miatech/wp/wp-includes/functions.php"
+			],
+			[
+				"cre",
+				"creds.txt"
+			],
+			[
+				"11",
+				"miatech/11.html"
+			],
+			[
+				"cred",
+				"creds.txt"
+			],
+			[
+				"con",
+				"miatech/contact.html"
+			],
+			[
+				"3",
+				"miatech/3.html"
+			],
+			[
+				"10",
+				"miatech/10.html"
+			],
+			[
+				"_butt",
+				"miatech/sass/includes/_buttons.sass"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/MAC OS /projects/subl.workflows/fl - slovotvir.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

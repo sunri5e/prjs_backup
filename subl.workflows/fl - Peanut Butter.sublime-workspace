@@ -1,0 +1,544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bdr",
+				"bdrz	border-radius"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"tex",
+				"text-overflow"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"colo",
+				"color-semi-main"
+			],
+			[
+				"ma",
+				"maw	max-width"
+			],
+			[
+				"table",
+				"tablet"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"lisy",
+				"list-style-type"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"color-",
+				"color-main"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Volumes/MAC OS /projects/vertalab/peanut_butter/code/understand_payment_options.html",
+			"settings":
+			{
+				"buffer_size": 24348,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/sass",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/sass/includes"
+	],
+	"file_history":
+	[
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/understand_default.html",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/stay_on_track.html",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/search_the_glossary.html",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/search_the_directory.html",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/refinancing_guide.html",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/know_your_servicer.html",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/improve_your_finances.html",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/sass/includes/_style.sass",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/free_student_loan_helpline.html",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/consider_consolidatation.html",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/package.json",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/index.html",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/understand_payment_options.html",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/sass/main.scss",
+		"/Volumes/MAC OS /projects/vertalab/peanut_butter/code/js/main.js",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/attention.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/last_words.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/popular_words.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/config/routes.rb",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/alphabet.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/catalog.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/comments.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/footer.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/forms.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/last_translate.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/variables.scss",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/layout.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/word.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/widget.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/typography.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/sidebar.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/tabs.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/responsive-utilites.scss",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/press.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/navigation.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/flexboxgrid.scss",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/word-table.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/include-media.scss",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design.scss",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/last_comments.haml",
+		"/Volumes/MAC OS /company day tracklist.txt",
+		"/Volumes/MAC OS /Downloads/Atomix VirtualDJ Pro Infinity v8.0.2177 MacOSX/union.nfo",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/home.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/design/word.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/home/index.html.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/words/show.html.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/general.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/buttons.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/views/layouts/design.html.haml",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/javascripts/design.js",
+		"/Users/s.hladyschuk/.bashrc",
+		"/Users/s.hladyschuk/Downloads/bash_profile",
+		"/Users/s.hladyschuk/.bash_profile",
+		"/Users/s.hladyschuk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/header.sass",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/proxima-nova-font.scss",
+		"/Volumes/MAC OS /projects/vertalab/viche/design/fonts/MyFontsWebfontsKit.css",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design/reset.scss",
+		"/Volumes/MAC OS /projects/vertalab/slovotvir/code/config/database.yml",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/index.php",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/footer.php",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/css/style.css",
+		"/Users/s.hladyschuk/Desktop/Landing-page.css",
+		"/Users/s.hladyschuk/Library/Caches/Cleanup At Startup/Transmit/723B4E32-294E-4150-96D0-0607FC28A843/index.php",
+		"/Users/s.hladyschuk/Library/Caches/Cleanup At Startup/Transmit/7B2AF357-3CA4-4FA1-B974-2C54305094AC/style.css",
+		"/Users/s.hladyschuk/Library/Caches/Cleanup At Startup/Transmit/FC0C2ACF-3361-4BAF-93D8-AAAA32069703/index.html",
+		"/Users/s.hladyschuk/Library/Caches/Cleanup At Startup/Transmit/6E759C44-0DCD-48EA-87DC-956003059B72/style.css",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/style.css",
+		"/Users/s.hladyschuk/Library/Caches/Cleanup At Startup/Transmit/411C9CD7-F84E-4BCD-87D5-F049990C698A/index.html",
+		"/Users/s.hladyschuk/Downloads/InvertPicturesWebsite/index.html",
+		"/Volumes/io-als917/io.nfo",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/js/scripts.js",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/header.php",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/functions.php",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/our-works/single.html",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-content/themes/invert-pictures/news.html",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/wp-config-local.php",
+		"/Volumes/MAC OS /projects/z4-gfx/invertpictures.com/.gitignore",
+		"/Volumes/MAC OS /projects/freelance/invertpictures.com/wp-config-local.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/MAC OS /projects/vertalab/peanut_butter/code",
+			"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app/assets/stylesheets/design",
+			"/Volumes/MAC OS /projects/vertalab/slovotvir/code/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<ul class=\"visible-xs visible-sm\">\n                <li><a href=\"#\">Profile</a></li>\n                <li><a href=\"#\">Log Out</a></li>\n              </ul>",
+			"● ",
+			"img",
+			"● ",
+			"under",
+			"<li>",
+			"● ",
+			"sear",
+			"glo",
+			"sear",
+			"searc",
+			"fin",
+			"<li></li>",
+			"pb-btn",
+			"<li></li>",
+			"h3",
+			"10px",
+			"<tr>\n                  <td></td>",
+			"<a class=\"pb-tile is-advertising\">",
+			"<div class=\"pb-tile is-advertising\">",
+			"<a class=\"pb-tile\">",
+			"<div class=\"pb-tile\">",
+			"<div class=\"pb-tile",
+			"<div class=\"pb-tile\">",
+			"pb-container",
+			"bp",
+			"<div class=\"col-sm-6",
+			"is-advertising",
+			"<div class=\"col-xs-12 pb-tile--wrapper\">",
+			"<div class=\"col-xs-12\">\n            <div class=\"pb-tile\">",
+			"Avenir-Book",
+			"31310E_2_0",
+			"font-family: 'Proxima Nova';",
+			"Sellect the Directory.jpg",
+			"&-",
+			"&--",
+			"&-",
+			"&--",
+			"&-",
+			"@media (min-width: $screen-sm)",
+			"&-",
+			"@media only screen and (min-width: $screen-md + 1px)",
+			"@media (min-width: $screen-sm) and (max-width: $screen-md)",
+			"@include media(\">phone\") and (max-width: $screen-sm)",
+			"@media (max-width: $screen-xs)",
+			"@media (min-width: $screen-md)",
+			"@media (min-width: $screen-sm) and (max-width: $screen-md)",
+			"@include media(\">phone\") and (max-width: $screen-sm)",
+			"@media (max-width: $screen-xs)",
+			"&-",
+			"media",
+			"@media (min-width: $screen-sm) and (max-width: $screen-md)",
+			"media",
+			"@media only screen and (min-width: $screen-md + 1px)",
+			"media",
+			"medoa",
+			"@media (min-width: $screen-sm)",
+			"@media (min-width: $screen-sm) and (max-width: $screen-md)",
+			"@media (min-width: $screen-xs)",
+			"@media only screen and (min-width: $screen-xs + 1px)",
+			"@media only screen and (min-width: $screen-sm + 1px)",
+			"%a.app-word",
+			"%td.app-word-table--item",
+			".app-word-table--item",
+			".app-word-table--row",
+			".app-word-table--item",
+			".app-word-table--row",
+			"app-word-table--heading",
+			"40",
+			"tab",
+			"@media (min-width: $screen-md)",
+			"35px",
+			".app-pull-right-xs.app-pull-right-sm",
+			".app-pull-left-xs.app-pull-left-sm",
+			".app-hidden-md",
+			"right",
+			".app-pull-right",
+			".app-pull-left",
+			"right",
+			"margin-left: auto\n    margin-right: auto\n    display: block",
+			".is-center-block",
+			"text-align: center",
+			".is-text-center",
+			"}",
+			"{",
+			"display: none !important;",
+			".app-hidden",
+			"15px",
+			".app-page-subsection",
+			"xs",
+			"-1",
+			"orde",
+			"center-",
+			".app-discusion--avatar",
+			".clearfix",
+			".pull-",
+			".app-btn",
+			".app-widget--title",
+			"%p.app-catalog--item\n          %a{:href => \"#\"}",
+			".col-xs-12.col-sm-6",
+			".col-md-12.app-visible-md.app-visible-lg",
+			".app-clearfix.app-visible-md.app-visible-lg",
+			".col-xs-3.col-sm-2.is-text-center",
+			".app-clearfix",
+			".col-sm-4",
+			".cf",
+			"pull",
+			".col-xs-12",
+			".col-xs-5",
+			".col-xs-12",
+			".col-xs-3.is-text-center\n            %p.app-alphabet-item",
+			".col-xs-6.is-text-center",
+			"$container-side-padding",
+			".is",
+			".app-social",
+			"app-social-block",
+			"with-accent-bg",
+			".col-xs-3",
+			".",
+			"1200px",
+			"1199px",
+			"992px",
+			"991px",
+			"768px",
+			"767px",
+			"%a{:href => \"#{}\"}",
+			".col-xs-6",
+			"%p \n          %"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<ul>\n                <li><a href=\"#\">Profile</a></li>\n                <li><a href=\"#\">Log Out</a></li>\n              </ul>",
+			"@include media(\">phone\")",
+			"@include media(\">tablet\")"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Volumes/MAC OS /projects/vertalab/peanut_butter/code/understand_payment_options.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23021,
+								23021
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fl - Peanut Butter.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rou",
+				"code/config/routes.rb"
+			],
+			[
+				"rout",
+				"code/config/routes.rb"
+			],
+			[
+				"ro",
+				"code/config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/MAC OS /projects/subl.workflows/fl - slovotvir.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
